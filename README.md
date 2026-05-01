@@ -37,17 +37,6 @@ HireSense AI is an NLP-powered system that automates resume screening by classif
 
 ---
 
-## 📸 Screenshots
-
-![App Screenshot](screenshots/ui.png)
-
----
-
-## 🎥 Demo
-
-[Watch Demo](demo/demo.mp4)
-
----
 
 ## ⚙️ Installation
 

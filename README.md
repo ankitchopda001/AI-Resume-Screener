@@ -23,7 +23,7 @@ HireSense AI is an NLP-powered system that automates resume screening by classif
 * Scikit-learn
 * NLP (TF-IDF, BERT)
 * Streamlit
-* FastAPI (optional)
+* FastAPI
 
 ---
 
